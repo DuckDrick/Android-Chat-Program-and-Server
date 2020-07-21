@@ -1,0 +1,5 @@
+$msg Andrius: 123
+$msg this: 321
+$msg andrius: 123
+$msg and: 321
+PHOTO 0 and

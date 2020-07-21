@@ -1,0 +1,18 @@
+$msg bertasius: 1
+$msg I zaidima: kairen;
+PHOTO 0 bertasius
+$msg I zaidima: desinen;
+$msg I zaidima: lygis(0);
+$msg I zaidima: int i=1; if(1==i){kairen;}
+$msg I zaidima: int i=1; if(2==i){kairen
+$msg I zaidima: int i=1; if(2==i){kairen;}
+$msg testas: Kazka
+$msg test: iš telefono
+$msg I zaidima: desinen;
+$msg I zaidima: kartok(10){kairen;}
+PHOTO 1 testas
+$msg Andrius: s
+$msg po: hh
+PHOTO 0 po
+PHOTO 1 po
+$msg po: hei
